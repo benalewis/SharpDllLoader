@@ -1,0 +1,2 @@
+C:\Development\Aymen\SharpDllLoader\SharpDllLoader\obj\Debug\SharpDllLoader.csproj.AssemblyReference.cache
+C:\Development\Aymen\SharpDllLoader\SharpDllLoader\obj\Debug\SharpDllLoader.csproj.CoreCompileInputs.cache
