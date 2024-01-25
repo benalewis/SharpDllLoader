@@ -89,7 +89,7 @@ namespace SharpDllLoader
 
         private static MethodInfo GetMethod(Type type, string methodname)
         {
-            MethodInfo methodObj = type.GetMethod(methodname);
+            MethodInfo methodObj = type.GetMethod(methodname, BindingFlags.NonPublic | BindingFlags.Instance);
             if (methodObj != null)
             {
                 return methodObj;
